@@ -1,0 +1,200 @@
+.header
+{
+  background-image: url(../images/banner/banner2.png);
+  background-repeat: no-repeat;
+  width: 1400px;
+  height: 809px;
+  display: flex;
+  margin-left:50px;
+}
+
+.banner
+{
+  text-align: right;
+  margin-top: 216px;
+  margin-right: 130px;
+  align-items: center;
+}
+ .banner-title
+ {position: absolute;
+  width: 525px;
+  height: 228px;
+  left: 786px;
+  top: 216px;
+  font-weight: 700;
+  font-size: 65px;
+  margin-bottom: 24px;
+}
+ .banner-description
+ {
+  position: absolute;
+  width: 494px;
+  height: 78px;
+  left: 820px;
+  top: 468px;
+  margin-top: 50px;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: right;
+  color: #444343;
+  margin-bottom: 100px;
+ }
+ .contact-button
+ {
+  position: absolute;
+  
+position: absolute;
+color: #FFFFFF;
+background-color: #FD6E0A;
+border: none;
+width: 160px;
+height: 64px;
+left: 1160px;
+top: 578px;
+font-weight: 600;
+font-size: 20px;
+margin-top: 40px;
+ }
+/* My failures of previous year */
+main
+{
+  max-width: 1200px;
+  margin-top: 130px;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-bottom: 130px; 
+  background-color: white;
+ 
+}
+.image
+{
+  margin-top: 60px;
+   margin-right: 87px;
+}
+.title
+{ position: absolute;
+  width: 416px;
+  height: 400px;
+  left: 954px;
+  top: 1263px;
+ 
+}
+.sub-title
+{
+  font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+}
+.sub-description
+{
+  color: #444343;
+  font-size: 16px;
+}
+/*      My plan styles         */
+.myplan-title{
+  width: 1140px;
+  height: 300px;
+}
+.plan-title{
+text-align: center; 
+margin-bottom: 30px;
+font-weight: 700;
+ font-size: 35px;
+ margin-bottom: 70px;}
+.about-info-container{
+display: flex;
+justify-content: space-around;
+margin-left:90px;
+}
+.info-title
+{
+display: inline-block;
+font-weight: 700;
+font-size: 40px;
+text-align:center;
+color: #151414;
+
+
+}
+.info-description
+{
+  font-weight: 500;
+  font-size: 25px;
+  color: #737272;
+  
+}
+.positive-title{
+  margin-top: 100px;
+  background-image: url(../images/gradient2.png),url(../images/watch.png);
+  position: absolute;
+  width: 1140px;
+  height: 300px;
+}
+.mind-title{
+ width: 200px;
+position: absolute;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+color: #FFFFFF;
+margin-left:50px;
+}
+.call-button
+{ 
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+padding: 15px;
+color: #F15B22;
+}
+/*  contact section */
+
+.contact-sec
+{ position: absolute;
+  margin-top:500px;
+  display: flex;
+  width: 88%;
+  background: #151414;
+}
+.contact-info
+{
+  font-family: 'Work Sans';
+  font-weight: 700;
+  font-size: 45px;  
+  color: #F8F8F8;
+  margin-left: 50px;
+  margin-top: 100px;
+}
+.contact-description
+{
+ margin-left: 50px;  
+font-weight: 400;
+font-size: 16px;
+width: 500px;
+color: #FFFFFF;
+}
+.icon
+{
+  margin-left: 50px;
+}
+.subs-title
+{
+margin-left: 190px;
+margin-top: 120px;  
+font-size: 25px;
+color: #FFFFFF;
+}
+.email-info{
+  margin-left: 190px;
+  width: 200px;
+  margin-bottom: 5px;
+}
+.sub-button
+{padding: 8px;
+  margin-left: 190px;
+  color:#FD6E0A;
+  border-radius: 5px;
+}
