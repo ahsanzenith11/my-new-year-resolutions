@@ -15,6 +15,14 @@
   margin-right: 130px;
   align-items: center;
 }
+ .possible
+ {
+  color: rgba(223, 11, 152, 0.918);
+ }
+ .believe
+ {
+  color: rgba(255, 255, 1, 0.897);
+ }
  .banner-title
  {position: absolute;
   width: 525px;
